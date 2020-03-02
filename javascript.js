@@ -43,8 +43,8 @@ function newTime(){
 
 function newConversation(){
     var randomNumber = Math.floor(Math.random() * (conversationStarters.length)); 
-    var diningTime = conversationStarters[randomNumber];
+    var conversation = conversationStarters[randomNumber];
     var output = document.getElementById('Conversation Display');
-    output.innerHTML = diningTime;
+    output.innerHTML = conversation;
 }
 
