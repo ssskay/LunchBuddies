@@ -1,5 +1,5 @@
 var locations = [
-    'The HOP', 'FOCO', 'Collis', 'Ramekin (not open for dinner)'
+    'The HOP', 'FOCO', 'Collis', 'Ramekin (not open for dinner)', 'Test'
 ]
 
 var mealTime = [
