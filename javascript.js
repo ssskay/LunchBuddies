@@ -1,15 +1,15 @@
 var locations = [
-    'FOCO', 'The HOP', 'Collis', 'Ramekin (not open for dinner)'
+    'The HOP', 'FOCO', 'Collis', 'Ramekin (not open for dinner)'
 ]
 
 var mealTime = [
-    'Lunch', 'Breakfast', 'Dinner'
+    'Breakfast', 'Lunch', 'Dinner'
 ]
 
 var conversationStarters = [
-    'What is the meaning of life and why is it FOCO cookies?', 
     'What has been the highlight of your term?', 
     'If you could try something new over spring break, what would it be?',
+    'What is the meaning of life and why is it FOCO cookies?', 
     'What is your dream research project?',
     'If you could change your skin to any other texture, what would it be and why?',
     'How did you get involved with CU and what has been your favorite memory?',
