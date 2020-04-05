@@ -8,9 +8,9 @@
 
 var conversationStarters = [
     'Where do you go to pray at home?',
-    'How has quaranteen affected spending time with God?', 
+    'How has being quaranteened affected how you spend time with God?', 
     "What's the funniest thing you've seen happen over Zoom?",
-    'What is a Zoom background that reflects your personality?', 
+    "What's a Zoom background that you've used/seen that reflects your personality?", 
     "If you had to come up with a CU TikTok challenge, what would it be?",
     'Do we poop in heaven?',
     "What's a verse that has helped you through tough times?"
