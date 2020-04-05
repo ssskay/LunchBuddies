@@ -16,7 +16,7 @@ var conversationStarters = [
     "What's a verse that has helped you through tough times?"
 ]
 
-var activity = [
+var indoorActivity = [
     'Do a spontaneous house tour (good bandwidth/wifi permitting)',
     'Share your study set up', 
     "Introduce a household memeber who is around (if they aren't busy)",
@@ -69,4 +69,18 @@ function newConversation(){
     var output = document.getElementById('Conversation Display');
     output.innerHTML = conversation;
 }
+
+
+function newActivity(){
+    var newRandomNumber = Math.floor(Math.random() * (indoorActivity.length)); 
+    while (randomNumber == newRandomNumber){
+        newRandomNumber = Math.floor(Math.random() * (indoorActivity.length));
+    }
+    randomNumber = newRandomNumber;
+    var activity = indoorActivity[randomNumber];
+    var output = document.getElementById('Activity Display');
+    output.innerHTML = activity;
+}
+
+
 
