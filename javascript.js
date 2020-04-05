@@ -1,19 +1,28 @@
-var locations = [
-    'The HOP', 'FOCO', 'Collis', 'Ramekin (not open for dinner)'
-]
+// var locations = [
+//     'The HOP', 'FOCO', 'Collis', 'Ramekin (not open for dinner)'
+// ]
 
-var mealTime = [
-    'Breakfast', 'Lunch', 'Dinner'
-]
+// var mealTime = [
+//     'Breakfast', 'Lunch', 'Dinner'
+// ]
 
 var conversationStarters = [
-    'What has been the highlight of your term?', 
-    'If you could try something new over spring break, what would it be?',
-    'What is the meaning of life and why is it FOCO cookies?', 
-    'What is your dream research project?',
-    'If you could change your skin to any other texture, what would it be and why?',
-    'How did you get involved with CU and what has been your favorite memory?',
-    'Do we poop in heaven?'
+    'Where do you go to pray at home?',
+    'How has quaranteen affected spending time with God?', 
+    "What's the funniest thing you've seen happen over Zoom?",
+    'What is a Zoom background that reflects your personality?', 
+    "If you had to come up with a CU TikTok challenge, what would it be?",
+    'Do we poop in heaven?',
+    "What's a verse that has helped you through tough times?"
+]
+
+var activity = [
+    'Do a spontaneous house tour (good bandwidth/wifi permitting)',
+    'Share your study set up', 
+    "Introduce a household memeber who is around (if they aren't busy)",
+    'Play your favorite worship song in the background', 
+    'Find something at your home that holds significance to you',
+    "Challenge the other person to try [insert an indoor activity] this week",
 ]
 
 // var locationPics = [
